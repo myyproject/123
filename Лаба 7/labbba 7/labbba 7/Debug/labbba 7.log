@@ -1,0 +1,41 @@
+﻿Построение начато 27.11.2012 17:52:30.
+     1>Проект "J:\Славик\1 курс(здача)\Основы программирования\Лаба 7\labbba 7\labbba 7\labbba 7.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\labbba 7.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\INT_proverka.cpp ..\INT_proverka_2.cpp ..\Vvod_el.cpp ..\Vyvod.cpp "..\labbba 7.cpp" ..\proverka.cpp ..\summa.cpp "laba 7.cpp"
+         laba 7.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\labbba 7\laba 7.cpp(5): fatal error C1083: Не удается открыть файл включение: iostream.h: No such file or directory
+         summa.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\summa.cpp(3): error C2065: S: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\summa.cpp(6): error C2065: S: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\summa.cpp(7): error C2065: S: необъявленный идентификатор
+         proverka.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\proverka.cpp(1): fatal error C1083: Не удается открыть файл включение: iostream.h: No such file or directory
+         labbba 7.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\labbba 7.cpp(1): fatal error C1083: Не удается открыть файл включение: iostream.h: No such file or directory
+         Vyvod.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vyvod.cpp(3): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vyvod.cpp(5): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vyvod.cpp(6): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vyvod.cpp(6): error C2065: endl: необъявленный идентификатор
+         Vvod_el.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vvod_el.cpp(4): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\vvod_el.cpp(5): error C2065: cin: необъявленный идентификатор
+         INT_proverka_2.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka_2.cpp(4): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka_2.cpp(5): error C2065: cin: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka_2.cpp(7): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka_2.cpp(7): error C2065: endl: необъявленный идентификатор
+         INT_proverka.cpp
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka.cpp(4): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka.cpp(4): error C2065: endl: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka.cpp(5): error C2065: cin: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka.cpp(7): error C2065: cout: необъявленный идентификатор
+     1>j:\славик\1 курс(здача)\основы программирования\лаба 7\labbba 7\int_proverka.cpp(7): error C2065: endl: необъявленный идентификатор
+         Создание кода...
+     1>Построение проекта "J:\Славик\1 курс(здача)\Основы программирования\Лаба 7\labbba 7\labbba 7\labbba 7.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:06.83
